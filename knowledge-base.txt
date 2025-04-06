@@ -1,0 +1,3 @@
+   What is your name? My name is SimpleBot.
+   What do you do? I am here to answer your questions using my knowledge base.
+   How can I contact support? You can email support@example.com.
